@@ -1,16 +1,10 @@
+# Elizabeth Inchbald: THE MOGUL TALE or, The Descent of the Balloon.
+## A FARCE
 
+AS IT IS ACTED AT THE THEATRE-ROYAL SMOKE-ALLEY. [Dublin]
+1788
 
-
-Elizabeth Inchbald:
-THE MOGUL TALE;Ê
-OR, The Descent of the Balloon.Ê
-A FARCE.Ê
-AS IT IS ACTED AT THEÊTHEATRE-ROYALÊ, SMOKE-ALLEY.
-[Dublin]Ê
-Printed for the booksellersÊ1788Ê
-20 p.
-
-DRAMATIS PERSON®.
+DRAMATIS PERSONAE:
 
 
 
@@ -28,70 +22,96 @@ WOMEN.
 First Lady.
 Second Lady.
 Third Lady.
-Fanny (the CobblerÕs Wife)
+Fanny (the CobblerCs Wife)
 
 
 ACT I.
 
-SCENE I: The Gardens of theÊMogulÊ, adjoining to theÊSeraglioÊ.
+SCENE I: The Gardens of theC
+MogulC
+, adjoining to theC
+SeraglioC
+.
 
-						Enter First and SecondÊLadiesÊ.
+						Enter First and SecondC
+LadiesC
+.
 
 
-1stÊLady: 	
-	WhoÊdo you think is the Emperor's favourite now: whilst I continued his favourite myself, I had no occasion to make any enquiry.
+1stC
+Lady: 	
+	WhoC
+do you think is the Emperor's favourite now: whilst I continued his favourite myself, I had no occasion to make any enquiry.
 
 
-2dÊLa:		
+2dC
+La:		
 	You may be the Emperor's again: as to me, I shall never enjoy his favour---But here she comes.
 
 						Enter 3d Lady.
 
 
-3dÊLa: (to the 1st Lady .)Ê
-	So, here you are musing and plotting mischief against me, because the Sultan loves me; well, the woman who possesses his heart, is sure to have every woman in the Seraglio against her: 	but there was a time when you was kind to me.Ê
+3dC
+La: (to the 1st Lady .)C
+
+	So, here you are musing and plotting mischief against me, because the Sultan loves me; well, the woman who possesses his heart, is sure to have every woman in the Seraglio against her: 	but there was a time when you was kind to me.C
 
 
-1stÊLa.
+
+1stC
+La.
 	Yes my dear Sophie, when you was in distress: and I assure you, that if ever that time should come again, we will be as kind again, and love you as well as ever.
 
 
-3dÊLa.
+3dC
+La.
 	You think so---however our sex are seldom kind to the woman that is so prosperous, their pity is confined to those that are forsaken---to be forsaken and ugly, are the greatest 	distresses a woman can have.
 
-						[Exit.Ê
-1stÊLa.
-	Let her go, a good for nothing happy creature, however by some accident she is the favourite now, perhaps some of us may become favourites soon--- sister---what's that---Ê
+						[Exit.C
 
-						(looking at the upper entrance)Ê
+1stC
+La.
+	Let her go, a good for nothing happy creature, however by some accident she is the favourite now, perhaps some of us may become favourites soon--- sister---what's that---C
+
+
+						(looking at the upper entrance)C
+
 
 	I tremble all over.
 
 
-2dÊLa.
+2dC
+La.
 	I am afraid it is a great ravenous bird, coming to devour us, is it a fowl? Perhaps it is the chariot of some of the gods of the Gentoos.
 
 
-1stÊLa.
-	Oh, no it cannot be a bird, it has no wings ---perhaps this is our Prophet Mahomet coming to earth again, and this is his chariot---It is---they are gods, I see their heads.Ê
+1stC
+La.
+	Oh, no it cannot be a bird, it has no wings ---perhaps this is our Prophet Mahomet coming to earth again, and this is his chariot---It is---they are gods, I see their heads.C
 
-						(Balloon descends)Ê	
+
+						(Balloon descends)C
+	
 	
 	Let us not be afraid if they bear the shape of men (as gods they say mostly do) let us face them.
 
 
-2dÊLa.
+2dC
+La.
 	Oh dear heart!---Stay---I never saw a god in all my life, and yet if they come in the shape of men, why I don't think I should be so much afraid of them neither.
 
-						[Exit.Ê
+						[Exit.C
+
 
 						Enter Johnny, Fanny and Doctor .
 
 
 John.
-	O! dear! O! dear!---The devil take all balloons I say---what a cursed confounded journey we have had of it ---Fan, come out---where the devil are we after all--- In Scotland, Denmark 	or Ireland, or Norway, or Limbo, it is devilish hotÊ
+	O! dear! O! dear!---The devil take all balloons I say---what a cursed confounded journey we have had of it ---Fan, come out---where the devil are we after all--- In Scotland, Denmark 	or Ireland, or Norway, or Limbo, it is devilish hotC
 
-									  (fans himself with his hat)Ê
+
+									  (fans himself with his hat)C
+
 
 	Why Fan, where are you Fan?
 	
@@ -195,7 +215,8 @@ John.
 						[Enter 1st Lady 
 
 
-1stÊLa.
+1stC
+La.
        Are you Gods?
 	   
 
@@ -203,7 +224,8 @@ Fan.
        She speaks to us.
 
 
-1stÊLa.
+1stC
+La.
        Then, you are gods.
 
 
@@ -211,7 +233,8 @@ John.
        Gods ma'am! no, we are three poor devils.
 
 
-1stÊLa.
+1stC
+La.
        Devils! avaunt.
 
 
@@ -219,7 +242,8 @@ Fan.
        Don't go to send us back again, we have had enough of it I assure you.
 
 
-1stÊLa.
+1stC
+La.
        Be ye gods or devils, in these shades you must not remain a moment.
 
 
@@ -227,7 +251,8 @@ John.
        Why where the devil are we?
 
 
-1stÊLa.
+1stC
+La.
        In the dominions of the Great Mogul.
 
 
@@ -243,18 +268,22 @@ Doc.
        Oh, ho, ho, ho.
 
 
-1stÊLa.
+1stC
+La.
 	In the Seraglio of his favourite concubines, where no mortal but himself dare approach in human shape, except our wretched sex, and Eunuchs who are our guards.
 
 John.
-	Eunuchs! Lord madam they are of no sex at all---we have often heard madam of the Great Mogul. Why Lord he can't be jealous of me, and as to the DoctorÊ[125]Ê there he is nobody---it is 	all over with him, he has no longer any inflammible air about him, either in his balloon or himself, its all gone, is'nt it Doctor?
+	Eunuchs! Lord madam they are of no sex at all---we have often heard madam of the Great Mogul. Why Lord he can't be jealous of me, and as to the DoctorC
+[125]C
+ there he is nobody---it is 	all over with him, he has no longer any inflammible air about him, either in his balloon or himself, its all gone, is'nt it Doctor?
 	
 	
 Fan.
        I am very faint, I am sure it is near a month since we left Hyde Park corner.
 
 
-1stÊLa.
+1stC
+La.
        Hyde Park corner!
 
 
@@ -265,7 +294,8 @@ John.
 	And after sailing a month like a poor school boy's kite, we are thrown into the jaws of that damn'd cutthroat dog the Great Mogul.
 
 
-1stÊLa.
+1stC
+La.
        What do you say?
 
 
@@ -273,7 +303,8 @@ John.
        I did'n't mean your Mogul, madam.
 
 
-1stÊLa.
+1stC
+La.
 	You must take care what you say, you are my fellow creatures, and you are brought here by this strange Machine---take care, the Mogul Eunuchs are constantly on the watch, the time 	draws nigh, when they will enter this dwelling: be prepared to give an account of yourselves, who, and what you are, and substantial excuses for your being found here, or you assuredly 	die in misery.
 
 
@@ -305,7 +336,8 @@ John.
 	Come, don't cry Fan, we shall see our children again, never fear.
 
 
-1stÊLa.
+1stC
+La.
 	As to that female, she has nothing to apprehend for herself, she will be saved from death, and most likely exalted to the embraces of the Great Mogul.
 
 
@@ -313,7 +345,8 @@ Fan.
 	I had rather not madam, if its all the same to you.
 
 
-1stÊLa.
+1stC
+La.
 	I only speak of what is probable, but prepare an excuse, I must call here the Eunuch and inform him of what has happen'd, or we shall be greatly suspected, and punished with you.
 
 
@@ -321,10 +354,14 @@ John.
 	Pray madam, are these Eunuchs a good sort of gentlemen?
 
 
-1stÊLa.
-	They are severe, but they do but their duty ---They obey their master, who meant them to be severeÊ[175]Ê ---if possible make them your friends, by all means.
+1stC
+La.
+	They are severe, but they do but their duty ---They obey their master, who meant them to be severeC
+[175]C
+ ---if possible make them your friends, by all means.
 
-						[Exit 1st Lady .Ê
+						[Exit 1st Lady .C
+
 						
 						
 John.
@@ -361,7 +398,8 @@ Fan.
 	   					Enter 1st Eunuch .
 
 
-1stÊEu.
+1stC
+Eu.
 	What are you, that float in air---you must appear before the Great Mogul, to answer with your lives for this audacity. Who was that being that brought you here?
 
 
@@ -373,17 +411,22 @@ Doc.
 	Must the woman go too.
 
 
-1stÊEu.
+1stC
+Eu.
        Yes.
 
 
 John.
-	O sir, we'll follow you.Ê
-						(Exit Eu. )Ê
+	O sir, we'll follow you.C
 
-	Damn itÊ Doctor, this comes of your haram scaram things.
+						(Exit Eu. )C
 
-						[Exeunt.Ê
+
+	Damn itC
+ Doctor, this comes of your haram scaram things.
+
+						[Exeunt.C
+
 
 
 Scene II
@@ -391,18 +434,23 @@ Scene II
 
 SCENE Changes to Gardens.
 
-						EnterÊMogulÊ.
+						EnterC
+MogulC
+.
 
 
 Mo.
-	Admirable! incomparable, most excellent! in a retreat of the gardens I saw the wretches fall---overheard their conversation. We were amazed at the miraculous manner of their arrival, 	but such acts I knew had been lately discovered in Europe---I am resolv'd to have some diversion with them.Ê
+	Admirable! incomparable, most excellent! in a retreat of the gardens I saw the wretches fall---overheard their conversation. We were amazed at the miraculous manner of their arrival, 	but such acts I knew had been lately discovered in Europe---I am resolv'd to have some diversion with them.C
 
-						(Enter 1st Eunuch .)Ê
+
+						(Enter 1st Eunuch .)C
+
 
 	Where are those Europeans.
 
 
-1stÊEu.
+1stC
+Eu.
 	My Leige, the slaves, the sailors of the air wait your pleasure.
 
 
@@ -410,29 +458,37 @@ Mo.
 	What are there situations on this new occasion.
 
 
-1stÊEu.
+1stC
+Eu.
 	Horror and dread.
 
 
 Mo.
 	Aggravate their fears, as much as possible, tell them, I am the abstract of cruelty, the essence of tyrranny; tell them the Divan shall open with all its terrors. For tho' I mean to 	save their lives, I want to see the effect of their fears, for in the hour of reflection I love to contemplate that greatest work of heaven, the mind of man.
 
-						[Exit.Ê
+						[Exit.C
 
 
-1stÊEu.
-	Happy for those adventurers is the serene temper of the Mogul---My friendsÊ
 
-       					(to the other Eunuchs )Ê
+1stC
+Eu.
+	Happy for those adventurers is the serene temper of the Mogul---My friendsC
+
+
+       					(to the other Eunuchs )C
+
 	lose no time to put the commands of our master into immediate execution---here they come, retire my friends.
 
 
-					[Rest of Eunuchs Exeunt.Ê
+					[Rest of Eunuchs Exeunt.C
+
 
 					Enter Johnny, Fanny and Doctor .
 
-1stÊEu.
-	Unhappy man I pity you, I was once in Europe, and treated kindly there!---I wish in gratitude I could do any thing to serve you---but the Mogul is[225]Ê bloody minded, and cruel, and 	at present inexorable.
+1stC
+Eu.
+	Unhappy man I pity you, I was once in Europe, and treated kindly there!---I wish in gratitude I could do any thing to serve you---but the Mogul is[225]C
+ bloody minded, and cruel, and 	at present inexorable.
 
 
 Doc.
@@ -451,7 +507,8 @@ Fan.
        Pray Mr Blacky was you ever in England?
 
 
-1stÊEu.
+1stC
+Eu.
        Yes I was, I love the country.
 
 
@@ -459,7 +516,8 @@ John.
 	Then you must love an Englishman---only help us out of this hobble my dear blacky, and I'll tell you what, I'll do any thing to serve you, I'll give you my vote for candidate and 	whatever you please to bid me.
 
 
-1stÊEu.
+1stC
+Eu.
 	The Mogul is only to be wrought upon by his fears, now if you can alarm him with the danger of taking your lives.
 
 
@@ -467,7 +525,8 @@ John.
 	How the devil can we alarm him, surrounded as he is with thousands, and we are but three of us.
 
 
-1stÊEu.
+1stC
+Eu.
 	He will be in the Divan immediately, be firm and bold before him---seem to know yourselves of consequence ---seem to have no fear, and that will alarm him.
 
 Fan.
@@ -477,18 +536,28 @@ Fan.
 John.
 	Thank you my dear Blacky, a thousand times.
 
-						[Drums and Trumpets sound.Ê
+						[Drums and Trumpets sound.C
 
 
-1stÊEu.
+
+1stC
+Eu.
 	The Divan is opening---now mark and practice all I say, and put forth all your fortitude.
 
 
-SCENE III Curtain draws and discovers theÊMogulÊon his Throne;ÊSlavesÊandÊEunuchsÊattending.
+SCENE III Curtain draws and discovers theC
+MogulC
+on his Throne;C
+SlavesC
+andC
+EunuchsC
+attending.
 
 
 Mo.
-	Let those who refused the presents I demanded,Ê[250]Ê be impaled, the Nabob who refused his favourite wife, be burnt alive---and let the Female who broke my favourite dish, and thereby 	spoiled my dinner, be torn to pieces.
+	Let those who refused the presents I demanded,C
+[250]C
+ be impaled, the Nabob who refused his favourite wife, be burnt alive---and let the Female who broke my favourite dish, and thereby 	spoiled my dinner, be torn to pieces.
 
 
 Doc.
@@ -503,21 +572,29 @@ Mo.
 	Where are those bold audacious ones, these Europeans?
 
 
-1stÊEu.(Aside to Doctor )Ê
-	Most gracious sovereign, behold the man on whom your anger is raised, and for whom your racks are preparing, comes Ambassador from England, which he likewise inhabits, to ask of you 	his way to the Persian dominions, where he's to meet some legions of warriors. Inhabitants of a new machine invented for the use of man, called, called---what is it called?Ê
+1stC
+Eu.(Aside to Doctor )C
+
+	Most gracious sovereign, behold the man on whom your anger is raised, and for whom your racks are preparing, comes Ambassador from England, which he likewise inhabits, to ask of you 	his way to the Persian dominions, where he's to meet some legions of warriors. Inhabitants of a new machine invented for the use of man, called, called---what is it called?C
+
 
 						
 
-( Johnny aside to Eunuch )Ê
-	called a Balloon--- The King his master is now within two day's journey ofÊyour mighty realm, in his way to the Persian dominions, which he means shall feel the force of his vast 	power, for injuries received, but will not stop here to refresh himself, and his mighty army on the right of your kingdom, without your permission, which he solicits by this his noble 	Ambassador.
+( Johnny aside to Eunuch )C
+
+	called a Balloon--- The King his master is now within two day's journey ofC
+your mighty realm, in his way to the Persian dominions, which he means shall feel the force of his vast 	power, for injuries received, but will not stop here to refresh himself, and his mighty army on the right of your kingdom, without your permission, which he solicits by this his noble 	Ambassador.
 
 
 Mo.
 	Why was not this explained on his first arrival?
 
 
-1stÊEu.
-	An accident happening to the machine in which he was conveyed, it unfortunately fell into a placeÊ[275]Ê forbidden; fear of your displeasure forbade him to announce himself.
+1stC
+Eu.
+	An accident happening to the machine in which he was conveyed, it unfortunately fell into a placeC
+[275]C
+ forbidden; fear of your displeasure forbade him to announce himself.
 
 
 Mo.
@@ -525,7 +602,10 @@ Mo.
 
 
 
-1stÊEu.Ê(Takes down a roll and reads)Ê
+1stC
+Eu.C
+(Takes down a roll and reads)C
+
 	"Know this most glorious monarch, before whom you now stand, is Emperor of all India---The Great Mogul---Brother of the Sun and Moon---of the Right Giver of all earthly 	Crowns---Commander of all creatures from the sea of Cremona, to the Gulph of Persia---Emperor of all Estates, and Lord of all the Region on the confines of Asia---Lord of all the coast 	of Africa---Lord of Ethiopia, Grand Sultan of all the beautiful females of Circassia, Barbary, Media, and both the Tartaries---Prince of the river Ganges, Zanthur, and 	Euphrates---Sultan of seventeen kingdoms---King of eight thousand Islands, and husband of one thousand wives."
 
 
@@ -533,28 +613,35 @@ Mo.
 	Dost thou hear Ambassador, thou who art less acquainted with the rays of royalty, to whom we have permitted our titles to be read in our presence; now look on your credentials, and 	tell us who is this king your master.
 
 
-Doc. (Aside to Eunuch )Ê
+Doc. (Aside to Eunuch )C
+
 	What shall I do for credentials?
 
 
-1stÊEu.(Aside to Doctor )Ê
+1stC
+Eu.(Aside to Doctor )C
+
 	Look on the roll, seem to read it with firmness.
 
 
-Doc. (takes the Roll and reads.)Ê
-	"The King his master, is by the Grace of God, King of Great Britain, France, Ireland, Scotland, Northumberland, Lincolnshire,Ê Sheffield, and Birmingham; giver of all Green, Blue, Red, 	and pale Blue Ribbons, Sovereign of the most surprising Order of the Bath, Sovereign of the most noble Order of St Patrick---Grand master of every Mason Lodge in Christendom, Prince of 	the River Thames, Trent, Severn, Tyne, New-River, Fleet-Ditch, and the Tweed: Sovereign Lord, and master of many loyal subjects, husband of one good wife, and father of eighteen fine 	children.
+Doc. (takes the Roll and reads.)C
+
+	"The King his master, is by the Grace of God, King of Great Britain, France, Ireland, Scotland, Northumberland, Lincolnshire,C
+ Sheffield, and Birmingham; giver of all Green, Blue, Red, 	and pale Blue Ribbons, Sovereign of the most surprising Order of the Bath, Sovereign of the most noble Order of St Patrick---Grand master of every Mason Lodge in Christendom, Prince of 	the River Thames, Trent, Severn, Tyne, New-River, Fleet-Ditch, and the Tweed: Sovereign Lord, and master of many loyal subjects, husband of one good wife, and father of eighteen fine 	children.
 
 
 Mo.
 	Then who art thou slave, that dare come into our presence.
 
 
-1stÊEu.
+1stC
+Eu.
 	He is no slave, know my most Royal master, this is his highness the Pope of Rome.
 
 
 
-John (Aside): the devil I amÊ
+John (Aside): the devil I amC
+
 	Yes, and please your highness, I am the Pope, at your service.
 
 
@@ -562,7 +649,8 @@ Mo.
 	A great Pontiff indeed---Is that the fashion of his robe?
 
 
-1stÊEu.
+1stC
+Eu.
 	His travelling dress only.
 
 
@@ -575,14 +663,17 @@ Mo.
 
 
 John.
-	Yes, yes, all the world have heard of the devilÊ[325]Ê and the Pope.
+	Yes, yes, all the world have heard of the devilC
+[325]C
+ and the Pope.
 
 
 Mo.
 	Cruel and rapacious. The actions of his predecessors will never be forgotten by the descendant of Mahomet. I rejoice I have him in my power---his life will but ill repay those crimes 	with which this monster formerly pestered the plains of Palentina.
 
 
-Fan. [Aside to the Eunuch .Ê
+Fan. [Aside to the Eunuch .C
+
 	Oh Lord, tell him he's a Cobbler at once and don't tell him any more lies.
 
 
@@ -599,7 +690,8 @@ Mo.
 
 
 John.
-	She does not belong to me, she is a nun, and please your highness, taken from a convent in Italy, andÊ was guilty of some crime, not to be forgiven, but by severe pennance, enjoined to 	accompany us.
+	She does not belong to me, she is a nun, and please your highness, taken from a convent in Italy, andC
+ was guilty of some crime, not to be forgiven, but by severe pennance, enjoined to 	accompany us.
 
 
 Mo.
@@ -638,7 +730,9 @@ Mo.
 	If tenderness will not drive her, punishment shall, persuade her to go.
 
 
-1stÊEu.[Aside.Ê
+1stC
+Eu.[Aside.C
+
 	Oh, you are yet undone.
 
 
@@ -650,7 +744,8 @@ John.
 Mo.
 	Guards, keep at a distance, but do not lose sight of them---For one day, rest in our court as friends, then you ambassador, and his highness may depart hence, and report my 	magnificence.
 
-						[Exit,Ê
+						[Exit,C
+
 
 
 John.
@@ -662,11 +757,14 @@ Fan.
 
 
 John.
-	Oh Fan, Fan, if we were at Wapping again, mending of shoes, in our little two pair of stairs room backwards---with the bed just turn'd up in one cornerÊ[375]Ê of the room.
+	Oh Fan, Fan, if we were at Wapping again, mending of shoes, in our little two pair of stairs room backwards---with the bed just turn'd up in one cornerC
+[375]C
+ of the room.
 
 
 Fan.
-	My Johnny and I sitting so comfortable together at breakfast, where we had pawn'd your waistcoat to get one, with one child crying on my knee, and one on yours; my poor old mother 	shaking with the ague, in one corner of the room---the many happyÊ mornings Johnny that we have got up together shaking with the cold---No balloon to vex us.
+	My Johnny and I sitting so comfortable together at breakfast, where we had pawn'd your waistcoat to get one, with one child crying on my knee, and one on yours; my poor old mother 	shaking with the ague, in one corner of the room---the many happyC
+ mornings Johnny that we have got up together shaking with the cold---No balloon to vex us.
 
 
 John.
@@ -688,50 +786,72 @@ Doc.
 John.
 	Fan only seem to comply with the Mogul at present---and put on your fine dress, and I'll try if I can get you away---and if not Fan, I wish I may never sole a pair of shoes again, if I 	don't stay with you, rather than leave you here---Oh Doctor---Doctor! this comes of your fine Air Balloon, Oh Lord, Oh Lord, we shall be put to death in the end.
 
-						[Exeunt.Ê
+						[Exeunt.C
+
 
 ACT II.
 
 
 SCENE I, A Front Apartment in the Seraglio.
 
-						EnterÊMogulÊandÊEunuchÊwith a letter.
+						EnterC
+MogulC
+andC
+EunuchC
+with a letter.
 
 
 Mogul.
-	ExcellentÊ! the intercepting this curious epistle, promises me a new source of entertainment, read it Omar, every thing proceeds as I could wish.
+	ExcellentC
+! the intercepting this curious epistle, promises me a new source of entertainment, read it Omar, every thing proceeds as I could wish.
 
 
 
-1stÊEu.Ê(Reads the letter.)Ê
+1stC
+Eu.C
+(Reads the letter.)C
+
 	"I have been able to procure some inflammible air, and hope soon to be able to see you in Wapping---don't waste your time in the Seraglio, but come, and help me to repair the Balloon. 	Contrive if you can to bring one of the females with you, as I want to try an experiment, which can live longest in the air, the women of this country, or our own--- ---N. B. Let her 	have black eyes, neither too large or too small, lest my experiment should fail."
 
 
 Mo.
-	A most noble stratagem! this is a conspiracy in our government, let a strong guard instantly seize this Doctor Ambassador and drag him immediately to the place of execution, this 	requires attention. Let this Cobler holiness already half drown'd in liquor, be supplied with the richest of my wines, and then in the high tide of his joys tempted with the finest of my 	women ---then also let him be convey'd to the place of execution, and let the woman array'd in oriental splendour be made to accompany him thither---there will I appear to watch the 	motion of the culprits, and then dismiss them to their own country, in a manner worthy the doctrinesÊ[25]Ê of our great Prophet, and not unsuitable to my own honour and dignity.
+	A most noble stratagem! this is a conspiracy in our government, let a strong guard instantly seize this Doctor Ambassador and drag him immediately to the place of execution, this 	requires attention. Let this Cobler holiness already half drown'd in liquor, be supplied with the richest of my wines, and then in the high tide of his joys tempted with the finest of my 	women ---then also let him be convey'd to the place of execution, and let the woman array'd in oriental splendour be made to accompany him thither---there will I appear to watch the 	motion of the culprits, and then dismiss them to their own country, in a manner worthy the doctrinesC
+[25]C
+ of our great Prophet, and not unsuitable to my own honour and dignity.
 
 						[Exeunt
 
 
 SCENE II Changes to the Seraglio Garden.
 
-						EnterÊJohnnyÊDrunk.
+						EnterC
+JohnnyC
+Drunk.
 
 
 
-John. (sings)Ê
-	Lippery wine! Lippery wine! never will drink any thing but lippery wine.ÊThey say they don't drink wine in this country---damme 'tis no such matter for brandy does all the same, though 	I don't think 'twas brandy neither---But it was devilish good, it has made me quite happy; I wish it does not make me fall in love presently, for I am devilish apt to fall in love when 	I am drunk---these seems to be a parcel of pretty girls, pretty tipperty winchesÊ
+John. (sings)C
 
-						(several Ladies crosses)Ê
-there they go, so pretty, and so plenty, zounds master Mogul, you have a fine time of it hereÊ
-
-						( 3d Lady crosses)Ê
-
-Here, hark'e my dear.Ê
-						( 3d Lady returns)Ê
+	Lippery wine! Lippery wine! never will drink any thing but lippery wine.C
+They say they don't drink wine in this country---damme 'tis no such matter for brandy does all the same, though 	I don't think 'twas brandy neither---But it was devilish good, it has made me quite happy; I wish it does not make me fall in love presently, for I am devilish apt to fall in love when 	I am drunk---these seems to be a parcel of pretty girls, pretty tipperty winchesC
 
 
-3dÊLa.
+						(several Ladies crosses)C
+
+there they go, so pretty, and so plenty, zounds master Mogul, you have a fine time of it hereC
+
+
+						( 3d Lady crosses)C
+
+
+Here, hark'e my dear.C
+
+						( 3d Lady returns)C
+
+
+
+3dC
+La.
 	Did you call me sir?
 
 
@@ -739,7 +859,8 @@ John.
 	Ay, my love, any body would call you---do you know that you are a sweet soul!
 
 
-3dÊLa.
+3dC
+La.
 	Sweet soul!
 
 
@@ -747,15 +868,18 @@ John.
 	Yes a sweet soul.
 
 
-3dÊLa.
+3dC
+La.
 	Why our religion tells us we have no souls.
 
 
 John.
-	Does it, why then of what use is your religion! but if you have no soul, damme, but you have a pretty body, a very pretty body, that I do assure you,Êand I am a sweet soul, and what is 	a body good for, without a soul.
+	Does it, why then of what use is your religion! but if you have no soul, damme, but you have a pretty body, a very pretty body, that I do assure you,C
+and I am a sweet soul, and what is 	a body good for, without a soul.
 
 
-3dÊLa.
+3dC
+La.
 	Have your countrymen souls?
 
 
@@ -763,17 +887,20 @@ John.
 	They have a damn'd deal of spirit.
 
 
-3dÊLa.
+3dC
+La.
 	What's that?
 
 
 John.
 Why I was going to tell you my sweet creature---
 
-						[Kneels; she exit.Ê
+						[Kneels; she exit.C
+
 						Enter 1st Eunuch .
 
-1stÊEu.
+1stC
+Eu.
 	His holiness upon his knees, and to a woman too.
 
 
@@ -781,7 +908,8 @@ John.
 	O yes sir! Though I am a Pope, I am not infallible.
 
 
-1stÊEu.
+1stC
+Eu.
 	Why this is strictly forbidden in your religion.
 
 
@@ -789,7 +917,8 @@ John.
 	Why so it is: and you are strictly forbidden to drink wine---and yet you know you damn'd black dog, you are always drinking, when you think nobody sees you, but this is Jubilee---all 	holiday at Peckham--- Here sirrah, fetch back that lady, madam no soul, do it. I cannot do without her.
 
 
-1stÊEu.
+1stC
+Eu.
 	Though I cannot recal the fair fugitive, I can do what you will like as well, take this handkerchief ---It is the Mogul's.
 
 
@@ -797,25 +926,33 @@ John.
 	Damn his handkerchief.
 
 
-1stÊEu.
+1stC
+Eu.
 	Cast this at the foot of any woman you please, and she must accomplish all your desires.
 
 
 John.
 Must she! damn me give me my old Miggy's handkerchief! and you'll see what work I'll make--- but there she goes.
 
-						[Exit.Ê
+						[Exit.C
+
 						Enter several Ladies , with 1st, 2d and 3d Ladies .
 
 
 
-1stÊLa.
-Here she comes, and looks very pretty, she will be the favourite very soon, but let us plague her,Ê[75]Ê and that will make her look ugly.
+1stC
+La.
+Here she comes, and looks very pretty, she will be the favourite very soon, but let us plague her,C
+[75]C
+ and that will make her look ugly.
 
 
-2dÊLa.
-	A woman never looks well, when she is not in temper,Ê
-						(they all retire up the stage.)Ê
+2dC
+La.
+	A woman never looks well, when she is not in temper,C
+
+						(they all retire up the stage.)C
+
 
 
 						Enter Fanny dressed.
@@ -828,7 +965,8 @@ Fan.
 						Ladies come forward.
 
 
-1stÊLa.
+1stC
+La.
 	You was sent here for penance madam, I heard.
 
 
@@ -836,7 +974,8 @@ Fan.
 	Ay and severe penance it was---I lost every thing on earth that I love by it.
 
 
-1stÊLa.
+1stC
+La.
 	But what do you say to your fine dress?
 
 
@@ -844,7 +983,8 @@ Fan.
 	It is nothing at all to me, I shall fast and pray.
 
 
-1stÊLa.
+1stC
+La.
 	What should you fast for, you may pray indeed for the good graces of the Mogul.
 
 
@@ -853,20 +993,26 @@ Fan.
 	I mean I had rather be doing penance again with the Pope, or a dozen Popes, rather than be married to one Mogul.
 
 
-1stÊLa.
+1stC
+La.
 	O I dare say you had. But men are not so plenty here, they are not to be found by dozens I assure you.
 
 
-2dÊLa.
-	No my dear English lady---I have been toldÊ[100]Ê in your country, every woman had a lover a piece, but here we have but one between us three and ninety seven of us.
+2dC
+La.
+	No my dear English lady---I have been toldC
+[100]C
+ in your country, every woman had a lover a piece, but here we have but one between us three and ninety seven of us.
 
 
 Fan.
 	And pray ladies have you seen any thing of the Pope lately, or is he gone away.
 
 
-3dÊLa (aside)
-	He was here just now, and making love to me.Ê
+3dC
+La (aside)
+	He was here just now, and making love to me.C
+
 
 	I'll make her jealous.
 
@@ -879,11 +1025,16 @@ Fan.
 
 
 John.
-	Damme! here they are all here, at my service ---you are a sett of pretty creatures upon my soul---madamÊ you are a damn'd fine girl, and so are you---and you too my little no soul. But 	that pretty little moppetÊ
-						(looking at Fanny )Ê
+	Damme! here they are all here, at my service ---you are a sett of pretty creatures upon my soul---madamC
+ you are a damn'd fine girl, and so are you---and you too my little no soul. But 	that pretty little moppetC
 
-	suits my fancy the most; here I fix (and not like an old musty weather cock, till the wind changes about, but here I fix)Ê
-						(throws down the handkerchief at Fan who takes it up)Ê
+						(looking at Fanny )C
+
+
+	suits my fancy the most; here I fix (and not like an old musty weather cock, till the wind changes about, but here I fix)C
+
+						(throws down the handkerchief at Fan who takes it up)C
+
 	come and kiss me.
 
 
@@ -892,10 +1043,13 @@ Fan.
 
 
 John.
-	What the devil! my own Fan---why who the devil would have thought of seeing you here, dizzen'd out in that fine gown, with a sack round your waist---and a long petticoat trailing on 	the ground---and a turbot on your head, why what's become of your straw hatÊ[125]Ê and linen gown.
+	What the devil! my own Fan---why who the devil would have thought of seeing you here, dizzen'd out in that fine gown, with a sack round your waist---and a long petticoat trailing on 	the ground---and a turbot on your head, why what's become of your straw hatC
+[125]C
+ and linen gown.
 
 
-1stÊLa.
+1stC
+La.
 	She is altered in that garb to please the great Mogul.
 
 
@@ -914,7 +1068,8 @@ John.
 
 
 
-1stÊEu.
+1stC
+Eu.
 	Great Sir, if you are at liberty I come to offer you some amusement if you will walk to the gate of the Seraglio, you may see the execution of some criminals ---Every thing is ready on 	the platform.
 
 
@@ -922,22 +1077,26 @@ John.
 	Great Blackamoor I come---You will go ladies, you shall go too Fan---But who the devil are they, what have they done?
 
 
-1stÊEu.
+1stC
+Eu.
 	I cannot tell, these executions happen so frequently, that we have no curiosity to learn. Your highness may enquire from themselves.
 
 					Enter another Eunuch with a paper and seal on it.
 
 
 
-2dÊEu.
-	In the name of the most mighty the Mogul,Ê I arrest this man, and bring him to the place of execution.
+2dC
+Eu.
+	In the name of the most mighty the Mogul,C
+ I arrest this man, and bring him to the place of execution.
 
 
 John.
 	We are going there friend---Come along Fan.
 
 
-2dÊEu.
+2dC
+Eu.
 	This woman must be secured by us.
 
 
@@ -945,7 +1104,8 @@ John.
 	Not she blacky, she belongs to me.
 
 
-2dÊEu.
+2dC
+Eu.
 	Belongs to you!
 
 
@@ -953,19 +1113,23 @@ John.
 	Yes blacky, belongs to me---damme she is my property.
 
 
-2dÊEu.
+2dC
+Eu.
 	I have the authority of the Great Mogul to take her before his presence, there's his signet.
 
 
 John.
-	And I have the authority of the Great Mogul to keep her, damme there's his handkerchief---I throw it thereÊ
+	And I have the authority of the Great Mogul to keep her, damme there's his handkerchief---I throw it thereC
+
 	
-						(throws it at Fan 's feet.)Ê
+						(throws it at Fan 's feet.)C
+
 						
 	and now touch her you damn'd black dog, if you dare; as to that great feal, you know you black thief, you never had it from the Mogul---You have been breaking open his beureau and 	stole it.
 
 
-2dÊEu.
+2dC
+Eu.
 	Though he gave it me himself, I cannot disobey the holder of the handkerchief---Come with me.
 
 
@@ -973,19 +1137,26 @@ John.
 	Why damme---we are going---you are hindering us, come along Fan---come along with me.
 
 
-2dÊEu.
-	No she must come along with us---Ê
-						(offers to lay hold of her.)Ê
+2dC
+Eu.
+	No she must come along with us---C
+
+						(offers to lay hold of her.)C
 
 
 
-John. (Prevents him.)Ê
+
+John. (Prevents him.)C
+
 	You are not to lay violent hands upon her, for look'ye master blacky, if you was in a certain corner of the world called Old England, you would know you dog you---that if the first. 	Prince of the Blood was to attempt the wife of a poor Cobler, against her will and good liking---He had better take up the whole island by main force, and dash it into the sea again.
 
-						[Exit Eunuch, Fanny and Johnny following Ladies Exeunt.Ê
+						[Exit Eunuch, Fanny and Johnny following Ladies Exeunt.C
 
 
-SCENE III (?) Draws and discovers theÊMogulÊon his Throne.
+
+SCENE III (?) Draws and discovers theC
+MogulC
+on his Throne.
 
 						The Apparatus for Execution ready, Executioners and Guards attending--- Doctor discovered by the wheel handcuffed, &c.
 
@@ -995,7 +1166,8 @@ Mo.
 	Are the Eunuchs returned with the prisoners?
 
 
-3dÊEu.
+3dC
+Eu.
 	We expect them every minute.
 
 
@@ -1003,14 +1175,16 @@ Mo.
 	Is his wife with them?
 
 
-3dÊEu.
+3dC
+Eu.
 	She is, my sovereign.
 
 
 Mo.
 	Maintain their fears, and place them with his mock excellency before the tribunal.
 
-						[Exit Mogul .Ê
+						[Exit Mogul .C
+
 						Enter Johnny, Fan and Eunuch .
 
 
@@ -1018,7 +1192,8 @@ John.
 	Come along Fan---Come along Fan---Where is the ambassador?
 
 
-2dÊEu.
+2dC
+Eu.
 	I'll place you next to him.
 
 
@@ -1034,7 +1209,8 @@ John.
 	Let me go.
 
 
-2dÊEu.
+2dC
+Eu.
 	You must not go.
 
 
@@ -1053,7 +1229,8 @@ Mo.
 	Where are these wretched culprits doom'd to receive their sentence?
 
 
-2dÊEu.
+2dC
+Eu.
 	They are here waiting your highness's pleasure.
 
 
@@ -1065,7 +1242,8 @@ John.
 	O Lord! O Lord!
 
 
-2dÊEu.
+2dC
+Eu.
 	The water oils and the grid irons are ready.
 
 
@@ -1102,7 +1280,9 @@ Mo.
 
 
 John.
-	Lord your honour, I was only joking with you,Ê[225]Ê I'll be judged by my body, if I look like a Pope.---I am sure the good man himself would excuse me for taking his name, so long as 	I did not make free with his character---I am quite sober now I assure you.
+	Lord your honour, I was only joking with you,C
+[225]C
+ I'll be judged by my body, if I look like a Pope.---I am sure the good man himself would excuse me for taking his name, so long as 	I did not make free with his character---I am quite sober now I assure you.
 
 
 Mo.
@@ -1138,18 +1318,23 @@ W	ith all my heart, rather than part with my dear Johnny, if Johnny would die, w
 
 
 Mo.
-	Keep silence while I pronounce judgment--- Tremble for your approaching doom. You are not now before the tribunal of a European, a man of your own colours. I am an Indian, a Mahometan, 	my laws are cruel and my nature savage---You have imposed upon me, and attempted to defraud me, but know that I haveÊbeen taught mercy and compassion for the sufferings ofÊ[250]Ê human 	nature; however differing in laws, temper and colour from myself. Yes from you Christians whose laws teach charity to all the world, have I learn'd these virtues? For your countrymen's 	cruelty to the poor Gentoos has shewn me tyranny in so foul a light, that I was determined henceforth to be only mild, just and merciful.---You have done wrong, but you are strangers, 	you are destitute---You are too much in my power to treat you with severity---all three may freely depart.
+	Keep silence while I pronounce judgment--- Tremble for your approaching doom. You are not now before the tribunal of a European, a man of your own colours. I am an Indian, a Mahometan, 	my laws are cruel and my nature savage---You have imposed upon me, and attempted to defraud me, but know that I haveC
+been taught mercy and compassion for the sufferings ofC
+[250]C
+ human 	nature; however differing in laws, temper and colour from myself. Yes from you Christians whose laws teach charity to all the world, have I learn'd these virtues? For your countrymen's 	cruelty to the poor Gentoos has shewn me tyranny in so foul a light, that I was determined henceforth to be only mild, just and merciful.---You have done wrong, but you are strangers, 	you are destitute---You are too much in my power to treat you with severity---all three may freely depart.
 
 
 
-John. (Runs to take the Mogul's hand.)Ê
+John. (Runs to take the Mogul's hand.)C
+
 	The lord bless you sir: thank you.
 
 
 Mo.
 	You have my leave, and I have given instructions to my messengers, to give you safe conduct to your native land.
 
-							[Exit.Ê
+							[Exit.C
+
 
 
 Doc.
@@ -1163,7 +1348,8 @@ John.
 
 
 
-2dÊEu.
+2dC
+Eu.
 	Every thing is ready for your departure.
 
 
@@ -1176,7 +1362,9 @@ Joan.
 
 
 Doc.
-	And present my compliments to him, and letÊ[275]Ê him know that I will explain the generosity of his conduct in a Mogul Tale, that I intend to publish, giving an account of our 	adventures in our grand Air Balloon.
+	And present my compliments to him, and letC
+[275]C
+ him know that I will explain the generosity of his conduct in a Mogul Tale, that I intend to publish, giving an account of our 	adventures in our grand Air Balloon.
 	Back matter
 
 
