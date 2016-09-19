@@ -4,70 +4,60 @@
 AS IT IS ACTED AT THE THEATRE-ROYAL SMOKE-ALLEY. [Dublin]
 1788
 
-DRAMATIS PERSONAE:
+### DRAMATIS PERSONAE:
 
 
 
-MEN.
-The Mogul.
-First Eunuch.
-Second Eunuch.
-Johnny (The Cobler.)
-Doctor.
+##### MEN
+
+* The Mogul.
+
+* First Eunuch.
+
+* Second Eunuch.
+
+* Johnny (The Cobbler.)
+
+* Doctor.
 
 
 
-WOMEN.
+##### WOMEN.
 
-First Lady.
-Second Lady.
-Third Lady.
-Fanny (the CobblerCs Wife)
+* First Lady.
 
+* Second Lady.
 
-ACT I.
-
-SCENE I: The Gardens of theC
-MogulC
-, adjoining to theC
-SeraglioC
-.
-
-						Enter First and SecondC
-LadiesC
-.
+* Third Lady.
+* Fanny (the Cobbler's Wife)
 
 
-1stC
-Lady: 	
-	WhoC
-do you think is the Emperor's favourite now: whilst I continued his favourite myself, I had no occasion to make any enquiry.
+### ACT I.
+
+#### SCENE I: The Gardens of the Mogul adjoining to the Seraglio
+
+*Enter First and Second Ladies* 
 
 
-2dC
-La:		
-	You may be the Emperor's again: as to me, I shall never enjoy his favour---But here she comes.
-
-						Enter 3d Lady.
+**1st Lady**: Who do you think is the Emperor's favourite now: whilst I continued his favourite myself, I had no occasion to make any enquiry.
 
 
-3dC
-La: (to the 1st Lady .)C
+**2d La**: You may be the Emperor's again: as to me, I shall never enjoy his favour---But here she comes.
 
-	So, here you are musing and plotting mischief against me, because the Sultan loves me; well, the woman who possesses his heart, is sure to have every woman in the Seraglio against her: 	but there was a time when you was kind to me.C
-
+*Enter 3d Lady.*
 
 
-1stC
-La.
-	Yes my dear Sophie, when you was in distress: and I assure you, that if ever that time should come again, we will be as kind again, and love you as well as ever.
+**3d La**: *to the 1st Lady*: 
+So, here you are musing and plotting mischief against me, because the Sultan loves me; well, the woman who possesses his heart, is sure to have every woman in the Seraglio against her: but there was a time when you was kind to me.
+
+**1st La.** 
+Yes my dear Sophie, when you was in distress: and I assure you, that if ever that time should come again, we will be as kind again, and love you as well as ever.
 
 
-3dC
-La.
+**3d La.**
 	You think so---however our sex are seldom kind to the woman that is so prosperous, their pity is confined to those that are forsaken---to be forsaken and ugly, are the greatest 	distresses a woman can have.
 
-						[Exit.C
+*Exit*				
 
 1stC
 La.
