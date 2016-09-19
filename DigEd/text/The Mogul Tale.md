@@ -59,98 +59,88 @@ Yes my dear Sophie, when you was in distress: and I assure you, that if ever tha
 
 *Exit*				
 
-1stC
-La.
-	Let her go, a good for nothing happy creature, however by some accident she is the favourite now, perhaps some of us may become favourites soon--- sister---what's that---C
+**1st La.**
+	Let her go, a good for nothing happy creature, however by some accident she is the favourite now, perhaps some of us may become favourites soon--- sister---what's that---
+
+(*looking at the upper entrance*) 
+
+I tremble all over.
 
 
-						(looking at the upper entrance)C
-
-
-	I tremble all over.
-
-
-2dC
-La.
+**2d La.**
 	I am afraid it is a great ravenous bird, coming to devour us, is it a fowl? Perhaps it is the chariot of some of the gods of the Gentoos.
 
 
-1stC
-La.
-	Oh, no it cannot be a bird, it has no wings ---perhaps this is our Prophet Mahomet coming to earth again, and this is his chariot---It is---they are gods, I see their heads.C
+**1st La.**
+	Oh, no it cannot be a bird, it has no wings ---perhaps this is our Prophet Mahomet coming to earth again, and this is his chariot---It is---they are gods, I see their heads.
+
+*Balloon Descends* 
+
+Let us not be afraid if they bear the shape of men (as gods they say mostly do) let us face them.
 
 
-						(Balloon descends)C
-	
-	
-	Let us not be afraid if they bear the shape of men (as gods they say mostly do) let us face them.
-
-
-2dC
-La.
+**2d La.** 
 	Oh dear heart!---Stay---I never saw a god in all my life, and yet if they come in the shape of men, why I don't think I should be so much afraid of them neither.
 
-						[Exit.C
+*Exit*
 
 
-						Enter Johnny, Fanny and Doctor .
+*Enter Johnny, Fanny and Doctor*
+
+**John**
+	O! dear! O! dear!---The devil take all balloons I say---what a cursed confounded journey we have had of it ---Fan, come out---where the devil are we after all--- In Scotland, Denmark 	or Ireland, or Norway, or Limbo, it is devilish hot
+
+*fans himself with his hat*
 
 
-John.
-	O! dear! O! dear!---The devil take all balloons I say---what a cursed confounded journey we have had of it ---Fan, come out---where the devil are we after all--- In Scotland, Denmark 	or Ireland, or Norway, or Limbo, it is devilish hotC
-
-
-									  (fans himself with his hat)C
-
-
-	Why Fan, where are you Fan?
+Why Fan, where are you Fan?
 	
 
-Fan.
+**Fan**:
 	I'm here Johnny---Oh! Lord! I am so glad to set my foot on Christian ground again.
 
 
-John.
+**John.**
 	Christian ground you fool! Why we're in Limbo ---it must be Limbo, or Greenland. Doctor what say you, it is Greenland, is it not?---
 
 
-Doc.
+**Doc.**
 	Why man Greenland is cold, quite reverse of this climate; this is either east, west or south, but which I cannot tell. I am sure it is not north, by the heat, other conclusions I draw 	from other causes; I know we are a thousand miles from our native land, from the swiftness of our machine's motion, and the length of time we have been in it; another conclusion is, 	that not knowing the paths we have come, we know not where we are---I know only that we are in a close walk of trees with houses at a distance; we may be amongst people, who pay no 	regard to genius, science, or invention, but may put us all to death, taking us for three witches that ride in the air.
 
 
-Fan.
+**Fan.**
 	Oh! Lord! put us all to death!---is all our fine ride in the air come to this---Oh, Lord! O Lord.
 
 
-John.
+**John.**
 	Ay Fan, and how the people clapp'd and huzza'd, when they saw us mount in the air!---They little thought they should not see us again, Gad that was the reason may be that they seem'd 	so glad---for my part I was so pleas'd with my journey, I was almost out of my wits for joy; I did not think that we should have no more than a couple of hours ride. I thought we should 	have been picked up in Essex, Darby, or Kent, or Middlesex or thereabouts, but the devil a bit! the Doctor with all his magic could not stop it when it was set a-going.
 
 
-Doc.
+**Doc.**
 	I own I am shock'd at our adventure.
 
 
-John.
+**John.**
 	Well here we are after all---but where, the Lord only knows. 																														
 
 
-Doc.
+**Doc.**
 	Do you appear lighter---I am much more heavy than in my natural element.
 
 
-John.
+**John.**
 	Ay Doctor, like a fish out of water.
 
 
-Doc.
+**Doc.**
 	I do not speak to you of elements.
 
 
-John.
+**John.**
 	I am sure doctor I wish you hadn't brought us out of our element.
 
 
-Doc.
+**Doc.**
 	Your soul and body are composed of one element, and that is earth, and your wife is all water.
 
 
