@@ -1,5 +1,8 @@
-Elizabeth Inchbald 
+# Elizabeth Inchbald 
+## The Mogul Tale
 
+### A Farce
+---
 DRAMATIS PERSONAE
 MEN
 
